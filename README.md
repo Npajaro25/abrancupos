@@ -1,3 +1,5 @@
+## Equipo: 🔥 #abrancupos 🔥
+
 #  ❤️ SincroHealth ❤️
 
 SincroHealth es una plataforma diseñada para IPS y entidades médicas cuyo objetivo principal es facilitar la gestión del historial clínico de los pacientes. Los usuarios pueden visualizar y descargar su historia médica, así como acceder a las fórmulas prescritas en citas anteriores. Además, cuentan con la opción de agendar, modificar o cancelar citas según sus necesidades.
